@@ -59,12 +59,13 @@ namespace WindowsSutdownApp
         public void StartTimerAndAction(TimerDelegate action)
         {
             int time;
-            if (textBox1.Text== null)
+            if (string.IsNullOrEmpty(textBox1.Text))
                 time = 0;
             else
-                time= int.Parse(textBox1.Text);
+                time = int.Parse(textBox1.Text);
+
             Timer timer = new Timer();
-            timer.Interval= time*1000;
+            timer.Interval = (time == 0) ? 1 : time* 1000;
             timer.Tick += (sender, e) =>
             {
                 action.Invoke();
