@@ -1,0 +1,10 @@
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\bin\Debug\WindowsSutdownApp.exe.config
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\bin\Debug\WindowsSutdownApp.exe
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\bin\Debug\WindowsSutdownApp.pdb
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\obj\Debug\WindowsSutdownApp.csproj.AssemblyReference.cache
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\obj\Debug\WindowsSutdownApp.Form1.resources
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\obj\Debug\WindowsSutdownApp.Properties.Resources.resources
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\obj\Debug\WindowsSutdownApp.csproj.GenerateResource.cache
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\obj\Debug\WindowsSutdownApp.csproj.CoreCompileInputs.cache
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\obj\Debug\WindowsSutdownApp.exe
+C:\Users\theka\source\repos\WindowsSutdownApp\WindowsSutdownApp\obj\Debug\WindowsSutdownApp.pdb
